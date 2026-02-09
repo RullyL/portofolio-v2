@@ -1,0 +1,77 @@
+{
+  "nav": {
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact",
+    "lang": "EN"
+  },
+  "hero": {
+   "title": "Hi, I'm",
+    "role": "Frontend Web Developer",
+    "line2_a": "Clean • Fast • elightful web experiences",
+    "line3": "web sites",
+    "desc": "I’m a Frontend Web Developer who builds clean, fast, and delightful web experiences.",
+    "cta_work": "See my work",
+    "cta_contact": "Contact me",
+    "cta_top": "Work with me",
+    "bio_short": "Frontend developer focused on clean UI, performance, and delightful interactions.",
+    "bio_cta": "Read bio",
+    "bio_title": "Short Bio",
+    "bio_body": "I build modern web interfaces with a focus on clarity, speed, and accessibility. I enjoy turning complex problems into simple, polished experiences and collaborating closely with teams to ship high-quality products.",
+    "cv_cta": "Download CV"
+  },
+  "skills": {
+    "title": "Skills"
+  },
+  "experience": {
+    "title": "Experience & Education",
+    "item1_title": "Senior Developer",
+    "item1_date": "2023 - Present",
+    "item1_desc": "Company X � Building awesome products",
+    "item2_title": "Frontend Developer",
+    "item2_date": "2020 - 2023",
+    "item2_desc": "Company Y � Focus on UI & performance"
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "A selection of recent work and case studies.",
+    "see_work": "See my work",
+    "skill_title": "Skill",
+    "skill_subtitle": "Tools and technologies I use daily.",
+    "experience_title": "Experience",
+    "experience_subtitle": "Companies and projects I've contributed to.",
+    "nda": "NDA",
+    "confidential": "CONFIDENTIAL PREVIEW",
+    "private_repo": "Private repo",
+    "private_link": "Private link",
+    "meta": {
+      "role": "Role",
+      "timeline": "Timeline",
+      "impact": "Impact"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "heading": "Get in touch with me here",
+    "subheading": "Let's talk about your next project.",
+    "badge_1": "Response in 24-48h",
+    "badge_2": "Remote friendly",
+    "badge_3": "Open for collaboration",
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "email": "Email Address",
+    "message": "Your Message",
+    "placeholder_first": "Input your first name",
+    "placeholder_last": "Input your last name",
+    "placeholder_email": "Input your email address",
+    "placeholder_message": "Tell me about your project",
+    "submit": "Submit",
+    "loading": "Sending your message...",
+    "success": "Thanks for reaching out! I'll get back to you soon.",
+    "error": "Failed to send message. Please try again.",
+    "invalid_email": "Invalid email address"
+  },
+  "footer": {
+    "text": "Your Name. Built with Next.js, TypeScript, Tailwind & Ant Design."
+  }
+}

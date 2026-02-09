@@ -1,0 +1,77 @@
+{
+  "nav": {
+    "about": "Tentang",
+    "projects": "Proyek",
+    "contact": "Kontak",
+    "lang": "ID"
+  },
+  "hero": {
+   "title": "Hai, saya",
+    "role": "Frontend Web Developer",
+    "line2_a": "Pengalaman web yang bersih • Cepat • Menyenangkan",
+    "line3": "website",
+    "desc": "Saya seorang Frontend Web Developer yang membangun pengalaman web yang bersih, cepat, dan menyenangkan.",
+    "cta_work": "Lihat karya saya",
+    "cta_contact": "Hubungi saya",
+    "cta_top": "Kerja sama",
+    "bio_short": "Frontend developer yang fokus pada UI rapi, performa, dan interaksi yang menyenangkan.",
+    "bio_cta": "Baca bio",
+    "bio_title": "Bio Singkat",
+    "bio_body": "Saya membangun antarmuka web modern yang jelas, cepat, dan mudah diakses. Saya senang mengubah masalah kompleks menjadi pengalaman yang simpel dan rapi, serta berkolaborasi dengan tim untuk menghasilkan produk berkualitas.",
+    "cv_cta": "Unduh CV"
+  },
+  "skills": {
+    "title": "Keterampilan"
+  },
+  "experience": {
+    "title": "Pengalaman & Pendidikan",
+    "item1_title": "Senior Developer",
+    "item1_date": "2023 - Sekarang",
+    "item1_desc": "Company X � Membangun produk yang keren",
+    "item2_title": "Frontend Developer",
+    "item2_date": "2020 - 2023",
+    "item2_desc": "Company Y � Fokus UI & performa"
+  },
+  "projects": {
+    "title": "Proyek",
+    "subtitle": "Pilihan pekerjaan dan studi kasus terbaru.",
+    "see_work": "Lihat karya saya",
+    "skill_title": "Skill",
+    "skill_subtitle": "Tools dan teknologi yang saya gunakan setiap hari.",
+    "experience_title": "Experience",
+    "experience_subtitle": "Perusahaan dan proyek yang pernah saya tangani.",
+    "nda": "NDA",
+    "confidential": "PRATINJAU RAHASIA",
+    "private_repo": "Repo privat",
+    "private_link": "Link privat",
+    "meta": {
+      "role": "Peran",
+      "timeline": "Durasi",
+      "impact": "Dampak"
+    }
+  },
+  "contact": {
+    "title": "Kontak",
+    "heading": "Hubungi saya di sini",
+    "subheading": "Mari bahas proyek kamu berikutnya.",
+    "badge_1": "Balas 24-48 jam",
+    "badge_2": "Remote friendly",
+    "badge_3": "Terbuka untuk kolaborasi",
+    "first_name": "Nama Depan",
+    "last_name": "Nama Belakang",
+    "email": "Alamat Email",
+    "message": "Pesan",
+    "placeholder_first": "Isi nama depan",
+    "placeholder_last": "Isi nama belakang",
+    "placeholder_email": "Isi alamat email",
+    "placeholder_message": "Ceritakan proyek kamu",
+    "submit": "Kirim",
+    "loading": "Mengirim pesan...",
+    "success": "Terima kasih! Saya akan segera membalas.",
+    "error": "Gagal mengirim. Silakan coba lagi.",
+    "invalid_email": "Alamat email tidak valid"
+  },
+  "footer": {
+    "text": "Your Name. Dibuat dengan Next.js, TypeScript, Tailwind & Ant Design."
+  }
+}
