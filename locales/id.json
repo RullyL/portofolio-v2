@@ -6,7 +6,7 @@
     "lang": "ID"
   },
   "hero": {
-   "title": "Hai, saya",
+    "title": "Hai, saya",
     "role": "Frontend Web Developer",
     "line2_a": "Pengalaman web yang bersih • Cepat • Menyenangkan",
     "line3": "website",
@@ -27,10 +27,10 @@
     "title": "Pengalaman & Pendidikan",
     "item1_title": "Senior Developer",
     "item1_date": "2023 - Sekarang",
-    "item1_desc": "Company X � Membangun produk yang keren",
+    "item1_desc": "Company X - Membangun produk yang keren",
     "item2_title": "Frontend Developer",
     "item2_date": "2020 - 2023",
-    "item2_desc": "Company Y � Fokus UI & performa"
+    "item2_desc": "Company Y - Fokus UI & performa"
   },
   "projects": {
     "title": "Proyek",

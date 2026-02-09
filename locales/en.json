@@ -6,11 +6,11 @@
     "lang": "EN"
   },
   "hero": {
-   "title": "Hi, I'm",
+    "title": "Hi, I'm",
     "role": "Frontend Web Developer",
     "line2_a": "Clean • Fast • elightful web experiences",
     "line3": "web sites",
-    "desc": "I’m a Frontend Web Developer who builds clean, fast, and delightful web experiences.",
+    "desc": "I'm a Frontend Web Developer who builds clean, fast, and delightful web experiences.",
     "cta_work": "See my work",
     "cta_contact": "Contact me",
     "cta_top": "Work with me",
@@ -27,10 +27,10 @@
     "title": "Experience & Education",
     "item1_title": "Senior Developer",
     "item1_date": "2023 - Present",
-    "item1_desc": "Company X � Building awesome products",
+    "item1_desc": "Company X - Building awesome products",
     "item2_title": "Frontend Developer",
     "item2_date": "2020 - 2023",
-    "item2_desc": "Company Y � Focus on UI & performance"
+    "item2_desc": "Company Y - Focus on UI & performance"
   },
   "projects": {
     "title": "Projects",

@@ -2,7 +2,7 @@
 import React from 'react';
 import Link from 'next/link';
 import { Button } from 'antd';
-import { MoonOutlined, SunOutlined } from '@ant-design/icons';
+import { MoonOutlined, SunOutlined, HomeOutlined, AppstoreOutlined, MailOutlined } from '@ant-design/icons';
 import useTheme from '../hooks/useTheme';
 import useLocale from '../i18n/useLocale';
 
@@ -46,6 +46,22 @@ export default function Navbar() {
           </div>
         </div>
       </nav>
+      <div className="md:hidden fixed left-0 top-[610px] right-0 z-50 px-4 pb-[env(safe-area-inset-bottom)]">
+        <div className="mx-auto mb-2 flex max-w-sm items-center justify-between rounded-full border border-slate-200/70 dark:border-slate-700/70 bg-white/90 dark:bg-slate-900/90 px-4 py-2 shadow-lg backdrop-blur">
+          <Link href="/" className="flex flex-col items-center text-[10px] text-slate-700 dark:text-slate-200">
+            <HomeOutlined className="text-base" />
+            {t('nav.about')}
+          </Link>
+          <Link href="/projects" className="flex flex-col items-center text-[10px] text-slate-700 dark:text-slate-200">
+            <AppstoreOutlined className="text-base" />
+            {t('nav.projects')}
+          </Link>
+          <Link href="/contact" className="flex flex-col items-center text-[10px] text-slate-700 dark:text-slate-200">
+            <MailOutlined className="text-base" />
+            {t('nav.contact')}
+          </Link>
+        </div>
+      </div>
     </header>
   );
 }

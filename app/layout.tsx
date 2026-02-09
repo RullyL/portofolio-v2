@@ -63,7 +63,7 @@ export default function RootLayout({
                 token: { colorPrimary: "var(--color-primary)" },
               }}
             >
-              <div className="min-h-screen flex flex-col bg-white text-slate-900 dark:bg-slate-900 dark:text-slate-100">
+              <div className="min-h-screen flex flex-col bg-white text-slate-900 dark:bg-slate-900 dark:text-slate-100 pb-20 md:pb-0">
                 <Navbar />
                 <main className="flex-1">{children}</main>
                 <Footer />
