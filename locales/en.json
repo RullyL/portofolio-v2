@@ -72,6 +72,6 @@
     "invalid_email": "Invalid email address"
   },
   "footer": {
-    "text": "Your Name. Built with Next.js, TypeScript, Tailwind & Ant Design."
+    "text": ". Built with Next.js, TypeScript, Tailwind & Ant Design."
   }
 }

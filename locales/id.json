@@ -72,6 +72,6 @@
     "invalid_email": "Alamat email tidak valid"
   },
   "footer": {
-    "text": "Your Name. Dibuat dengan Next.js, TypeScript, Tailwind & Ant Design."
+    "text": ". Dibuat dengan Next.js, TypeScript, Tailwind & Ant Design."
   }
 }
