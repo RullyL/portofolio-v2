@@ -13,13 +13,25 @@ export default function Experience(){
         items={[
           {
             label: t('experience.item1_date'),
-            title: t('experience.item1_title'),
-            children: t('experience.item1_desc')
+            children: (
+              <div>
+                <h3 className="font-semibold">{t('experience.item1_title')}</h3>
+                <p className="mt-1 text-sm text-neutral-600">
+                  {t('experience.item1_desc')}
+                </p>
+              </div>
+            )
           },
           {
             label: t('experience.item2_date'),
-            title: t('experience.item2_title'),
-            children: t('experience.item2_desc')
+            children: (
+              <div>
+                <h3 className="font-semibold">{t('experience.item2_title')}</h3>
+                <p className="mt-1 text-sm text-neutral-600">
+                  {t('experience.item2_desc')}
+                </p>
+              </div>
+            )
           }
         ]}
       />
